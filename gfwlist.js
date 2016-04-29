@@ -11,6 +11,7 @@ var rules = [
   "||asianspiss.com",
   "||azubu.tv",
   "||beeg.com",
+  "||dl3.apk-dl.com",
   "||googleapis.com",
   "||emuch.net",
   "||boysmaster.com",
