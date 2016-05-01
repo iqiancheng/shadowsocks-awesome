@@ -92,6 +92,7 @@ var rules = [
   ".228.net.tw",
   "24smile.org",
   ".2shared.com",
+  ".tumblr.com",
   ".315lz.com",
   "||32red.com",
   "||36rain.com",
