@@ -8,6 +8,7 @@ var rules = [
   "|http:\/\/85.17.73.31\/",
   "||alien-ufos.com",
   "||altrec.com",
+  "||apk-dl.com",
   "||asianspiss.com",
   "||azubu.tv",
   "||beeg.com",
