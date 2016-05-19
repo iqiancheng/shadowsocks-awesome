@@ -129,6 +129,7 @@ var rules = [
   "t2.etowns.org",
   ".flnet.org",
   ".gotgeeks.com",
+  ".inboxsdk.com",
   ".slyip.com",
   ".slyip.net",
   ".suroot.com",
