@@ -270,6 +270,7 @@ var rules = [
   "24smile.org",
   "2lipstube.com",
   ".2shared.com",
+  ".github.com",
   ".315lz.com",
   "||32red.com",
   "||36rain.com",
