@@ -124,6 +124,7 @@ var rules = [
   ".lsxszzg.com",
   ".tumblr.com",
   ".china-mmm.net",
+  ".amazonaws.com",
   "||china-mmm.net",
   "china-mmm.sa.com",
   ".4irc.com",
