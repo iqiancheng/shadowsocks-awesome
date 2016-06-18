@@ -1,7 +1,7 @@
 # shadowsocks-gfwlist
 A customized gfwlist pac for shadowsocks.
 
-# usage
+# Usage
 ## for Windows
 ![](https://raw.githubusercontent.com/iqiancheng/shadowsocks-awesome/doc/images/ss-setting-001.png "Shadowsocks client for windows settings")
 
