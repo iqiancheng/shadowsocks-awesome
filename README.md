@@ -1,5 +1,6 @@
-# shadowsocks-pac
-A customized pac for shadowsocks.
+# client for shadowsocks
+laest version client for shadowsocks.
 
-# usage
-把pac.txt放在shadowsocks 根目录
+- shadowsocks for Windows
+- shadowsocks for Mac
+
