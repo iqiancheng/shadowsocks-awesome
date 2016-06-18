@@ -1,5 +1,5 @@
 # shadowsocks-gfwlist
-A customized gfwlist pac for shadowsocks.
+一个实时更新的实用gfwlist清单。不需要借助插件实现Shadowsocks国内外网站的PAC自动分流。 
 
 # Usage
 ## for Windows
