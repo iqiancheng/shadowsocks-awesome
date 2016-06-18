@@ -3,9 +3,12 @@
 
 # Usage
 ## for Windows
+![](https://raw.githubusercontent.com/iqiancheng/shadowsocks-awesome/doc/images/ss-setting-003.png "Shadowsocks client for windows settings")
+
+像上图这样设置shadowsocks，使用PAC模式;
 ![](https://raw.githubusercontent.com/iqiancheng/shadowsocks-awesome/doc/images/ss-setting-001.png "Shadowsocks client for windows settings")
 
-像上图这样设置shadowsocks，使用PAC模式，PAC选项为Local PAC（本地pac文件）。 
+PAC选项为Local PAC（本地pac文件）。 
 
 ![](https://raw.githubusercontent.com/iqiancheng/shadowsocks-awesome/doc/images/ss-pac-setting-002.png "Shadowsocks client for windows settings")
 
