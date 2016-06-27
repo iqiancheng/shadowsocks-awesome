@@ -14,6 +14,7 @@ var rules = [
   "||wunderlist.com",
   "||asianspiss.com",
   "||athenaeizou.com",
+  "||dnslookup.me",
   "||tumblr.com",
   "||fastcat.pw",
   "||azubu.tv",
