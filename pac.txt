@@ -51,6 +51,7 @@ var rules = [
   "||hmvdigital.ca",
   "||hmvdigital.com",
   "||homedepot.com",
+  "||itunes.apple.com",
   "||hoovers.com",
   "||hulu.com",
   "||huluim.com",
