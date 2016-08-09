@@ -8,6 +8,12 @@
 
 # Usage
 ## for Windows
+**下载客户端**
+
+在``client``分支下载 ``Shadowsocks-win-3.0.zip`` 解压，并配置``server``填入您的服务器用户名密码
+
+**设置shadowsocks-gfwlist**
+
 ![](https://raw.githubusercontent.com/iqiancheng/shadowsocks-awesome/doc/images/ss-setting-003.png "Shadowsocks client for windows settings")
 
 像上图这样设置shadowsocks，使用PAC模式;
