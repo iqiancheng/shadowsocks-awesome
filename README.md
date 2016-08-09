@@ -23,4 +23,14 @@ PAC选项为Local PAC（本地pac文件）。
 ## for Mac
 苹果Mac用户，则把当前分支下 ``.Shadowsocks`` 文件夹,放在当前用户的根目录 ``~/`` 。
 
+**下载客户端**
+
+在``client``分支下载 ``shadowsocks.dmg`` 安装
+
+**设置shadowsocks-gfwlist**
+
+```bash
+$ cp -R .Shadowsocks ~/
+```
+
 
