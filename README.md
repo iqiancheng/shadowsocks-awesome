@@ -1,7 +1,7 @@
 # shadowsocks-gfwlist
 一个实时更新的实用gfwlist清单。不需要借助插件实现Shadowsocks国内外网站的PAC自动分流。 
 - 用于无障碍科学上网
-- 自备``shadowsocks``账号密码
+- 请自备``shadowsocks``账号密码
 - 不需要给浏览器安装类似``SwitchyOmega``这样的插件
 - 用户不需要关心自己上的网站是在墙外还是墙内，流畅上网
 
